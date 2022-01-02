@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-color: #161616;
+    color: wheat;
+}
+.heading
+{
+    padding-top: 250px;
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    font-size: 3rem;
+}
+.mad
+{
+    text-align: center;
+    padding-top: 180px;
+}
+#time
+{
+    font-family: 'Poppins', sans-serif;
+}
+@media all and (max-width: 500px){
+    .heading{
+        padding-top: 90px;
+    }
+}
